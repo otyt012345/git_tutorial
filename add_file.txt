@@ -1,2 +1,5 @@
 <h1>test</h1>
 <p>gitmerge</p>
+conflict
+コンフリクト
+<p>pull request</p>
